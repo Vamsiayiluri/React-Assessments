@@ -1,0 +1,42 @@
+.item{
+    
+    margin: 0 auto;
+    width: 500px;
+    font-size: 20px;
+}
+.itemName{
+    font-weight: bold;
+    padding: 20px;
+}
+.line{
+    border: 1px solid #dcdbdb;
+
+}
+.items{
+    display: flex;
+    justify-content: space-between;
+}
+.buttonitems{
+    /* display: flex; */
+    padding: 20px;
+    /* justify-content: space-between; */
+
+}
+.completebutton{
+    margin-right: 8px;
+    border: none;
+    background-color: rgb(28, 180, 50);
+    padding: 10px 16px;
+    color: white;
+    cursor: pointer;
+    margin-top: -5px;
+}
+.deletebutton{
+    border: none;
+    background-color: rgb(226, 52, 8);
+    padding: 10px 16px;
+    color: white;
+    cursor: pointer;
+    margin-top: -5px;
+ 
+}

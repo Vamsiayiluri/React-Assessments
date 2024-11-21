@@ -1,0 +1,35 @@
+.applyPage {
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 16px;
+  }
+  .inputtext {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    box-sizing: border-box; 
+  }
+  .buttonStyle {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 12px;
+  }
+  .error{
+    font-size: 14px;
+    color: red;
+    margin-bottom: 8px;
+  }
+  
